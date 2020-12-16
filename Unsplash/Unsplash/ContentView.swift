@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
             .padding()
+        //우리마 이거 보이니 코멘트
     }
 }
 
